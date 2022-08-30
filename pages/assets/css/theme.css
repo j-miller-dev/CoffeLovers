@@ -16703,5 +16703,9 @@ a.text-white:hover, a.text-white:focus {
 /*-----------------------------------------------
 |   User Styles
 -----------------------------------------------*/
+.hero {
+  background-color: #2b2b2b;
+  height: 100vw;
+}
 
 /*# sourceMappingURL=theme.css.map */
